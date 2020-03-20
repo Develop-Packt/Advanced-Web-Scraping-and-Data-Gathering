@@ -1,2 +1,5 @@
-# Advanced-Web-Scraping-and-Data-Gathering
-Decode responses and extract text from the Request and BeautifulSoup libraries, read and scrape data from XML files, and implement regular expressions to practice advanced web scraping on APIs.
+# Advanced Web Scraping and Data Gathering
+[![GitHub issues](https://img.shields.io/github/issues/Develop-Packt/Advanced-Web-Scraping-and-Data-Gathering.svg)](https://github.com/Develop-Packt/Advanced-Web-Scraping-and-Data-Gathering/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Develop-Packt/Advanced-Web-Scraping-and-Data-Gathering.svg)](https://github.com/Develop-Packt/Advanced-Web-Scraping-and-Data-Gathering/network)
+[![GitHub stars](https://img.shields.io/github/stars/Develop-Packt/Advanced-Web-Scraping-and-Data-Gathering.svg)](https://github.com/Develop-Packt/Advanced-Web-Scraping-and-Data-Gathering/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Develop-Packt/Advanced-Web-Scraping-and-Data-Gathering/pulls)
